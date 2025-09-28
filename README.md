@@ -1,8 +1,8 @@
-# Task-1-Ai-Ml
+# Task-1
 
-# 🧹 Task 1: Data Cleaning & Preprocessing (Titanic Dataset)
+# Task 1: Data Cleaning & Preprocessing (Titanic Dataset)
 
-## 📌 Objective
+## Objective
 The goal of this task was to learn how to *clean and preprocess raw data* before applying Machine Learning.  
 We used the *Titanic dataset* to demonstrate the steps.
 
@@ -16,7 +16,7 @@ We used the *Titanic dataset* to demonstrate the steps.
 
 ---
 
-## 📂 Steps Performed
+## Steps Performed
 
 ### 1. Import & Explore Data
 - Loaded Titanic dataset (titanic.csv)  
@@ -41,7 +41,7 @@ We used the *Titanic dataset* to demonstrate the steps.
 
 ---
 
-## 📊 Results
+## Results
 - *Initial Shape:* (891, 12)  
 - *Final Shape after cleaning:* (825, 13)  
 - ✅ Cleaned dataset is ready for ML tasks  
